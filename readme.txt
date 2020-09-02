@@ -1,0 +1,1 @@
+Para rodar o projeto execute no console: 'npm run dev'
